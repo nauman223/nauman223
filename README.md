@@ -4,7 +4,7 @@ Hi, I am Muhammad Nauman. I am specialize in Angular/React Development (Frontend
 
 ✅ Front-End Development with Angular | React
 
-✔ Requirement Gathering and documentation
+✔ Requirement Gathering and documentation /n
 ✔ Professional UI/UX design for your mobile application.
 ✔ Cleaned and well-commented source code.
 ✔ APIs Integration with the code
