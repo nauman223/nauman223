@@ -1,10 +1,10 @@
-Hi, I am Muhammad Nauman. I am specialize in Angular/React Development (Frontend). I have been doing Angular Development for the past four years and I am well-versed with all the versions of Angular (e.g Angular 2-9/10/11/12) and React Js.
+Creative Front-End Developer offering 5+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
 
 ★★ SERVICES I CAN PROVIDE YOU
 
 ✅ Front-End Development with Angular | React
 
-✔ Requirement Gathering and documentation 
+✔ Requirement Gathering and documentation
 ✔ Professional UI/UX design for your mobile application.
 ✔ Cleaned and well-commented source code.
 ✔ APIs Integration with the code
@@ -19,6 +19,3 @@ Hi, I am Muhammad Nauman. I am specialize in Angular/React Development (Frontend
 ✔ Visual Studio Code
 ✔ MySQL Database Management System 
 ✔ Postgres Database Management System 
-
-Thank you!
-Muhammad Nauman
