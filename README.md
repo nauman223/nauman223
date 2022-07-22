@@ -1,5 +1,6 @@
-
-
+<p>
+Creative Front-End Developer offering 5+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
+</p>
 ```
 ★★ SERVICES I CAN PROVIDE YOU
 
@@ -21,5 +22,4 @@
 ✔ MySQL Database Management System 
 ✔ Postgres Database Management System 
 ```
-```Creative Front-End Developer offering 5+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
-```
+
